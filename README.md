@@ -1,1 +1,1 @@
-# test_metric
+![Metrics](/github-metrics.svg)
