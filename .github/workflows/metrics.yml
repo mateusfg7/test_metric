@@ -32,7 +32,11 @@ jobs:
           repositories: 100
           repositories_affiliations: owner, collaborator
           commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
-                    
+
+          quota_required_rest: 5000
+          quota_required_graphql: 5000
+          quota_required_search: 30
+          
           plugin_lines: yes
           plugin_lines_history_limit: 3
           
