@@ -27,6 +27,7 @@ jobs:
           # config_animations: yes
           
           # base: header, activity, repositories, metadata
+          base: repositories
           # base_indepth: yes
           # repositories_forks: yes
           # repositories: 150
@@ -58,8 +59,6 @@ jobs:
           # plugin_topics_limit: 20
           # plugin_topics_mode: icons
           # plugin_topics_sort: starred
-          
-          plugin_traffic: yes
           
           # plugin_code: yes
           # plugin_code_lines: 6
