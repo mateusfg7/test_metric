@@ -20,14 +20,14 @@ jobs:
 
           # Options
           # user: mateusfg7
-          # template: classic
+          template: classic
           
-          # config_display: large
-          # config_timezone: America/Sao_Paulo
+          config_display: large
+          config_timezone: America/Sao_Paulo
           # config_animations: yes
           
           # base: header, activity, repositories, metadata
-          base: header,metadata
+          base: header,repositories,metadata
           # base_indepth: yes
           # repositories_forks: yes
           repositories: 50
