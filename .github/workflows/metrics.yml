@@ -27,7 +27,7 @@ jobs:
           config_animations: yes
           
           base: header, activity, repositories, metadata
-          # base_indepth: yes
+          base_indepth: yes
           # repositories_forks: yes
           repositories: 60
           repositories_affiliations: owner, collaborator
@@ -43,7 +43,7 @@ jobs:
           plugin_languages_categories: programming
           plugin_languages_colors: github
           plugin_languages_details: lines
-          # plugin_languages_indepth: yes
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 30
