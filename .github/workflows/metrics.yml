@@ -27,10 +27,10 @@ jobs:
           # config_animations: yes
           
           # base: header, activity, repositories, metadata
-          base: metadata
+          base: header,metadata
           # base_indepth: yes
           # repositories_forks: yes
-          # repositories: 150
+          repositories: 50
           # repositories_affiliations: owner, collaborator
           # commits_authoring: Mateus Felipe Gonçalves, Mateus Felipe, mateusfg7, mateusfg7@users.noreply.github.com
                     
